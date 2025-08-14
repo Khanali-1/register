@@ -1,2 +1,2 @@
 # register
-registration page using purehtml+css and js
+registration page using pure <br> html+css and <br>js
